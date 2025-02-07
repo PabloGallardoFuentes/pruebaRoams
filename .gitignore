@@ -1,0 +1,17 @@
+# Directorios y archivos de python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+roams/
+
+# Bases de datos
+*.sqlite3
+*.db
+
+# Ficheros de configuración y logs
+logs/
+*.log
+.env
