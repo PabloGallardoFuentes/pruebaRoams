@@ -7,8 +7,8 @@ Esta API RESTful permite gestionar clientes y realizar simulaciones de hipotecas
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/PabloGallardoFuentes/pruebaRoams.git
+cd pruebaRoams
 ```
 
 ### 2️⃣ Crear y activar un entorno virtual
