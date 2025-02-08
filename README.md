@@ -4,6 +4,26 @@ Esta API RESTful permite gestionar clientes y realizar simulaciones de hipotecas
 
 ## 🚀 Instalación y configuración
 
+### 0️⃣ Requisitos previos
+
+- git
+
+- python 3.8 o superior
+
+- pip (actualizado si es posible) - windows 
+      ```
+      pip -m pip install --upgrade pip
+      ``` 
+      o Linux 
+      ```
+      pip install --upgrade pip
+      ```
+
+- virtualenv - se puede obtener con 
+      ```
+      pip install virtualenv
+      ```
+
 ### 1️⃣ Clonar el repositorio
 
 ```bash
