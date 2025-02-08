@@ -22,7 +22,7 @@ En Windows:
 ```cmd
 roams\Scripts\activate
 ```
-Nota: Si sale error, habilitar la ejecución con 
+*Nota: Si sale error, habilitar la ejecución con el comando*
 ```cmd
 Set-ExecutionPolicy Unrestricted -Scope Process
 ```
@@ -114,6 +114,12 @@ Respuesta:
   "importe_total": 158390.4
 }
 ```
+
+### 🆕 Obtener todos los clientes
+
+**GET** /clientes/
+
+Funcionalidad extra que obtiene todos los clientes de la base de datos.
 
 ## 🛠️ Documentación detallada con Swagger
 
